@@ -1,7 +1,7 @@
 {
     "interactionModel": {
         "languageModel": {
-            "invocationName": "technology quiz",
+            "invocationName": "technology quizs",
             "intents": [
                 {
                     "name": "AMAZON.FallbackIntent",
