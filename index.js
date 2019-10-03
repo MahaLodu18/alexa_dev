@@ -21,7 +21,7 @@ function populateGameQuestions(translatedQuestions) {
     throw new Error('Invalid Game Length.');
   }
 
-  for (let i = 0; i < translatedQuestions.length; i += 1) {
+  for (let i = 0; i <=translatedQuestions.length-1; i += 1) {
     indexList.push(i);
   }
 
