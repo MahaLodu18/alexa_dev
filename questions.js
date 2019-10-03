@@ -13,6 +13,20 @@ module.exports = {
         'Bill gates',
       ],
     },
+     {
+      'Who is the founder of twitter?': [
+        'jack dorsey',
+        'Steve Wozniak',
+        'Bill gates',
+      ],
+    },
+     {
+      'Who is the founder of snapchat?': [
+        'evan spiegel',
+        'Steve Wozniak',
+        'Bill gates',
+      ],
+    },
     {
       'Who is the founder of facebook?': [
         'Mark Zuckerberg',
