@@ -18,6 +18,7 @@ module.exports = {
         'jack dorsey',
         'Steve Wozniak',
         'Bill gates',
+        'nelson mandela',
       ],
     },
      {
