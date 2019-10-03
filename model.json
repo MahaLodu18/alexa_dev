@@ -32,7 +32,10 @@
                         "my answer is {Answer}",
                         "is it {Answer}",
                         "{Answer} is my answer",
-                        "{Answer}"
+                        "{Answer}",
+                        "maybe the answer is {Answer}",
+                        "is the answer {Answer}"
+                         "check if {Answer} is correct"
                     ]
                 },
                 {
