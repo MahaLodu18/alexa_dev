@@ -413,7 +413,7 @@ const RepeatIntent = {
       .getResponse();
   },
 };
-
+// this code is not correct sahi kar lodu
 const YesIntent = {
   canHandle(handlerInput) {
     return handlerInput.requestEnvelope.request.type === 'IntentRequest'
